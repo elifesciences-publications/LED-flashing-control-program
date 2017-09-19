@@ -1,2 +1,2 @@
 # LED-flashing-control-program
-The program used to control LED firing pattern on through  a PC. It needs a Labview main program to function.
+The code used to create the application controlling LED firing pattern through  a PC. It needs a Labview main program to function.
